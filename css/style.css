@@ -1,3 +1,7 @@
 .buttons{
 	display: none;
 }
+
+.buttons-black{
+	background: #0000;
+}
