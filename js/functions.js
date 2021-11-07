@@ -5,3 +5,11 @@ function helloWorld(){
 function bye(){
 	console.log('Bye');
 }
+
+function pow(arg){
+	return arg*arg;
+}
+
+function sum(arg0, arg1){
+	return arg0+arg1;
+}
